@@ -1,0 +1,7 @@
+C:\Users\Ringer\source\repos\Практисечкая работа № 1\Практисечкая работа № 1\bin\Debug\Практисечкая работа № 1.exe.config
+C:\Users\Ringer\source\repos\Практисечкая работа № 1\Практисечкая работа № 1\bin\Debug\Практисечкая работа № 1.exe
+C:\Users\Ringer\source\repos\Практисечкая работа № 1\Практисечкая работа № 1\bin\Debug\Практисечкая работа № 1.pdb
+C:\Users\Ringer\source\repos\Практисечкая работа № 1\Практисечкая работа № 1\obj\Debug\Практисечкая работа № 1.csproj.AssemblyReference.cache
+C:\Users\Ringer\source\repos\Практисечкая работа № 1\Практисечкая работа № 1\obj\Debug\Практисечкая работа № 1.csproj.CoreCompileInputs.cache
+C:\Users\Ringer\source\repos\Практисечкая работа № 1\Практисечкая работа № 1\obj\Debug\Практисечкая работа № 1.exe
+C:\Users\Ringer\source\repos\Практисечкая работа № 1\Практисечкая работа № 1\obj\Debug\Практисечкая работа № 1.pdb
